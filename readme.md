@@ -133,19 +133,33 @@ Admin/Staff    Employee           JWT Token      Role-specific
 
 *Login Page with User Type Selection*
 
-<!-- Add screenshot here: Employee signup form -->
+![image](https://github.com/user-attachments/assets/cc4351ec-1da2-40be-9794-5bba9fa6bd5c)
+
 *Employee Registration Form*
 
-<!-- Add screenshot here: Admin dashboard overview -->
+![image](https://github.com/user-attachments/assets/36f1fe58-2ed7-48f6-b050-ef1329be25f7)
+
+*Super Admin Dashboard - Overview*
+
+![image](https://github.com/user-attachments/assets/86b650ee-5290-4c7a-8ef4-8dbb3f65dafd)
+![image](https://github.com/user-attachments/assets/8ebbbe46-f02e-4b42-bbcb-83eb2b2031ef)
+![image](https://github.com/user-attachments/assets/92ebaaa0-188b-44ef-860b-9ce10c5e3c84)
+
 *Admin Dashboard - Overview*
 
 <!-- Add screenshot here: Employee dashboard showing tasks and attendance -->
+![image](https://github.com/user-attachments/assets/d7bfaeac-3f05-4a3e-9d8f-859ebbdc725c)
+
 *Employee Dashboard - Personal View*
 
 <!-- Add screenshot here: Attendance tracking interface -->
+![image](https://github.com/user-attachments/assets/d8f74b36-d4a9-4294-82ea-d0df1fbf4cb8)
+
 *Real-time Attendance Monitoring*
 
-<!-- Add screenshot here: Task management interface -->
+![image](https://github.com/user-attachments/assets/51f12acf-c32e-4f44-905f-2e78360501b2)
+![image](https://github.com/user-attachments/assets/1b2d6bfb-db3f-441d-9b19-e06cb6156242)
+
 *Task Assignment and Management*
 
 ## Technical Stack
