@@ -138,6 +138,9 @@ Admin/Staff    Employee           JWT Token      Role-specific
 *Employee Registration Form*
 
 ![image](https://github.com/user-attachments/assets/36f1fe58-2ed7-48f6-b050-ef1329be25f7)
+![image](https://github.com/user-attachments/assets/5c512207-d0ae-463a-bba8-c636111672b9)
+![image](https://github.com/user-attachments/assets/08f72431-c97a-41d9-9176-93daad523bca)
+![image](https://github.com/user-attachments/assets/f3a23ebb-e000-4f37-8546-a4d8a2166db5)
 
 *Super Admin Dashboard - Overview*
 
