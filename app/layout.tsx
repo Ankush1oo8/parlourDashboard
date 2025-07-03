@@ -12,7 +12,7 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "Parlour Admin Dashboard",
   description: "Role-based admin dashboard for parlour management",
-    generator: 'v0.dev'
+    generator: 'Ankush'
 }
 
 export default function RootLayout({
