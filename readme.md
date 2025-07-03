@@ -129,7 +129,8 @@ Admin/Staff    Employee           JWT Token      Role-specific
 
 ## Screenshots
 
-<!-- Add screenshot here: Login page showing admin/employee toggle -->![alt text](./docs/img/image.png)
+![image](https://github.com/user-attachments/assets/5487ecba-a9c3-4ce2-b4ce-011b1c0379d2)
+
 *Login Page with User Type Selection*
 
 <!-- Add screenshot here: Employee signup form -->
